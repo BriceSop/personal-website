@@ -51,11 +51,11 @@ topics:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
 
   - name: SQL
-    image_url: https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png
+    image_url: https://www.vhv.rs/dpng/d/478-4788452_vector-db-symbol-sql-azure-hd-png-download.png
 
   - name: AWS
     web_url: https://aws.amazon.com/fr/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png
+    image_url: https://www.rcb-informatique.fr/wp-content/uploads/2025/02/Amazon_Web_Services-Logo.wine_.png
 
   - name: Microsoft Azure
     web_url: https://azure.microsoft.com/fr-fr
