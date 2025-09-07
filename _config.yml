@@ -35,7 +35,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: Brice Sopguombue
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -48,10 +48,11 @@ projects:
 
 topics:
   - name: Python
+    web_url: https://www.python.org/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
 
   - name: SQL
-    image_url: https://www.vhv.rs/dpng/d/478-4788452_vector-db-symbol-sql-azure-hd-png-download.png
+    image_url: https://cdn-icons-png.flaticon.com/512/4299/4299956.png
 
   - name: AWS
     web_url: https://aws.amazon.com/fr/
